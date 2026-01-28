@@ -1,6 +1,0 @@
-streamlit
-pandas
-matlpotlib
-seaborn
-scikit-learn
-joblib
